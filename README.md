@@ -1,4 +1,4 @@
-# Autonomous Maze Navigation Robot
+# Microcontroller-Robot-Path-Planning
 
 An autonomous line-following robot programmed in **HCS12 Assembly** for the **MC9S12DP256 (EEBot)** platform. Developed as the final project for **COE538 – Microprocessor Systems** at Toronto Metropolitan University.
 
