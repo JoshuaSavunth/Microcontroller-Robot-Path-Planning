@@ -51,9 +51,9 @@ To run the program, you will need:
 - CodeWarrior IDE for HCS12
 - MC9S12DP256 development board / EEBot
 - Robot hardware (motors, optical sensors, LCD, and bumper switches)
-- The `guidance.asm` source file
+- The `main.asm` source file
 
-The assembly program can be assembled and loaded onto the HCS12 using CodeWarrior. Once programmed, the robot can be started using the bumper switch and will autonomously follow the guide line while responding to sensor input.
+The assembly program can be assembled and loaded onto the HCS12 using CodeWarrior. Once programmed, the robot can be started using the bumper switch and will autonomously follow a guide line while responding to sensor input.
 
 ---
 
